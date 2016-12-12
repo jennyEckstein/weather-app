@@ -18,4 +18,3 @@ asyncAdd(5, 7).then((res) => {
 }).catch((errorMessage) => {
   console.log(errorMessage);
 });
- 
